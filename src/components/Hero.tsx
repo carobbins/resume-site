@@ -14,7 +14,7 @@ export function Hero({ basics, summary }: HeroProps) {
       <p>{basics.location?.city}, {basics.location?.state}</p>
       <p>{summary}</p>
       <a href={`mailto:${basics.email}`}>Email</a>
-      <a href={basics.linkedIn}>LinkedIn</a>
+      <a href={basics.linkedin}>LinkedIn</a>
       <a href={basics.website}>Website</a>
     </header>
   );
