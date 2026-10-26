@@ -1,0 +1,173 @@
+{
+  "basics": {
+    "name": "Christopher Robbins",
+    "title": "Senior Software Engineer and Architect",
+    "email": "carobbins@gmail.com",
+    "phone": "214.717.1463",
+    "linkedIn": "linkedin.com/in/carobbins",
+    "location": {
+      "city": "Garland",
+      "state": "TX"
+    }
+  },
+  "summary": "Results-oriented Senior Software Engineer and Architect with over 15 years of comprehensive experience designing, developing, and enhancing enterprise web applications, high-availability integrations, and multi-tenant solutions. Proven expertise across the full stack (.NET Core / ASP.NET MVC, C#, PHP, JavaScript, Python, React) with deep operational history in database tuning, cloud environments (AWS, Azure), and healthcare EHR/EMR systems interoperability. Committed to delivering high-quality solutions in agile Scrum environments, leveraging modern AI tooling to accelerate development and resolving complex architectural challenges.",
+  "competencies": [
+    {
+      "domain": "Programming Languages & Frontend",
+      "skills": ["C#", ".NET", "PHP", "JavaScript", "TypeScript", "Python", "React", "C/C++"]
+    },
+    {
+      "domain": "Frameworks & Web",
+      "skills": ["ASP.NET Core / MVC", ".NET Core 8", "Telerik / Kendo UI", "Laravel", "CakePHP", "Bootstrap", "AJAX", "JSON", "HTML5", "CSS3"]
+    },
+    {
+      "domain": "Databases & Storage",
+      "skills": ["SQL Server", "PostgreSQL", "MySQL", "DB2", "Ensemble", "Amazon AWS S3", "Google Firebase"]
+    },
+    {
+      "domain": "Tools & Infrastructure",
+      "skills": ["VS Code", "Visual Studio", "Git", "GitHub", "Azure DevOps", "Postman", "Docker", "AWS EC2", "Apache", "IIS", "Linux/Unix", "Windows OS", "macOS", "Jira", "Mirth Connect"]
+    },
+    {
+      "domain": "AI & Developer Assistants",
+      "skills": ["Claude", "OpenAI", "Gemini", "GitHub Copilot"]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Healthrise",
+      "role": "Senior Full Stack Developer",
+      "startDate": "November 2023",
+      "endDate": "September 2026",
+      "summary": "Led modernization and enterprise application development in a remote healthcare technology environment.",
+      "highlights": [
+        "Upgraded from .NET Framework 4.8 to .NET Core 8 (ASP.NET Core 8 MVC) in six months.",
+        "Utilized AI (Claude, Gemini, OpenAI) to enhance software development.",
+        "Addressed infrastructure issues, moving the site to use UTC timezone instead of server settings within ~2 weeks utilizing Claude.",
+        "Built a calendar scheduler system using API calls, JavaScript, Telerik/Kendo UI, and iCal to meet intensive client requirements.",
+        "Implemented Kendo/Telerik components replacing grids and utilizing the third-party framework.",
+        "Created statistical reports based on user requirements utilizing SQL Server stored procedures.",
+        "Led social initiatives in the company to enhance the company’s work-life balance."
+      ]
+    },
+    {
+      "company": "Bank of America / AxiaMed via TEKsystems",
+      "role": "Senior Software Engineer",
+      "startDate": "June 2022",
+      "endDate": "November 2023",
+      "summary": "Engineered secure financial web applications and standardized agile development workflows in Plano, TX.",
+      "highlights": [
+        "Prioritized production issues with critical development path leading to successfully corrected outcomes.",
+        "Standardized new Agile SCRUM process for the development team establishing effective team management.",
+        "Utilized AI GitHub Copilot in development and code testing.",
+        "Enhanced protection of web portal against Cross-site scripting, Cross-site Request Forgery and SQL Injection securing application to new policy standards.",
+        "Developed on Docker containers and published to AWS EC2 for UAT.",
+        "Actively engaged in planning to onboard an acquired company (AxiaMed) into the bank's enterprise and generated documentation for new/existing APIs.",
+        "Participated in peer code reviews to ensure adherence to coding standards and deliver work that exceeds stakeholder expectations."
+      ]
+    },
+    {
+      "company": "ConexEd",
+      "role": "Senior Software Engineer",
+      "startDate": "June 2021",
+      "endDate": "June 2022",
+      "summary": "Built scalable cloud-native microservices and educational web portals.",
+      "highlights": [
+        "Enhanced web education portal (case management, scheduling, communication software) using MVC, TypeScript, C#, JavaScript, AJAX, JSON, HTML5, CSS3, and SQL.",
+        "Led design and development of new product (ConexEd's HUB, bridging virtual and on-campus environments) for organic growth.",
+        "Enhanced systems integration with Student Information Systems (SIS) for a seamless user experience.",
+        "Migrated Zend Framework to Laravel (PHP).",
+        "Established microservices simplifying deployment.",
+        "Utilized Amazon AWS S3 bucket storage adding redundancy and security.",
+        "Integrated with Google Firebase allowing real-time database connections and data synchronization.",
+        "Elevated and managed customer issues, increasing client retention."
+      ]
+    },
+    {
+      "company": "Harris Computer / QuadraMed",
+      "role": "Senior Application Engineer",
+      "startDate": "March 2012",
+      "endDate": "June 2021",
+      "summary": "Managed healthcare EHR/EMR system integrations and created reusable C# design frameworks.",
+      "highlights": [
+        "Managed application development and integration with client host systems allowing our software to work with Epic, Allscripts, NextGen, GE Centricity, Cerner, Optimum, eClinicalWorks, AthenaNet, and McKesson STAR Navigator.",
+        "Established Template Pattern design framework in C# (and Java scripting) for integration development, cutting development time by 50%–75%.",
+        "Created repository for reuse of code lower implementation and recovery time by 75%.",
+        "Engineered C# software application tools simplifying installation and update procedures.",
+        "Integrated and standardized HL7 interfaces to work with client EMR/EHR systems."
+      ]
+    },
+    {
+      "company": "SpeedFC, Inc.",
+      "role": "Senior PHP Developer",
+      "startDate": "September 2011",
+      "endDate": "March 2012",
+      "summary": "Maintained end-to-end e-commerce and fulfillment applications.",
+      "highlights": [
+        "Maintained client applications ensuring retention.",
+        "Tuned SQL to speed up response time."
+      ]
+    },
+    {
+      "company": "Dominion Diagnostics",
+      "role": "Application Developer",
+      "startDate": "December 2008",
+      "endDate": "September 2011",
+      "summary": "Managed healthcare informatics EMR/EHR HL7 interfaces and product catalog development.",
+      "highlights": [
+        "Managed HL7 interfaces with EMR/EHR using Mirth integration assuring compliance.",
+        "Developed method to deliver PDF over HL7 using web services and Mirth Connect enabling delivery of proprietary reports.",
+        "Spearheaded development of product catalog for laboratory tests with relational DB2 database and PHP frontend providing a missing piece to the company's workflow.",
+        "Analyzed data to generate complex SQL queries for Crystal Reports."
+      ]
+    },
+    {
+      "company": "The Search Agency",
+      "role": "Software Engineer",
+      "startDate": "July 2008",
+      "endDate": "November 2008",
+      "summary": "Enhanced and debugged proprietary SEO and web services systems.",
+      "highlights": [
+        "Served on user interface team to collaborate with database, web services and algorithm teams to enhance, debug, and extend functionality to the company’s proprietary systems.",
+        "Assisted on company-side PHP web applications for clients increasing revenue."
+      ]
+    },
+    {
+      "company": "Consumer Testing Laboratories",
+      "role": "PHP Application Web Developer",
+      "startDate": "July 2006",
+      "endDate": "July 2008",
+      "summary": "Designed and developed global online file management systems and internal reporting tools.",
+      "highlights": [
+        "Designed and developed Global Online File Management System web application enabling company to manage and share critical documents in a single location and saving 20 work-hours a week.",
+        "Led development in projects including a dashboard monitoring system and online reporting wizard to generate dynamic reports freeing development and support by over 50%.",
+        "Trained new developers in PHP and Object-Oriented Programming (OOP)."
+      ]
+    },
+    {
+      "company": "ValueLinx",
+      "role": "Network Technician / Web Developer",
+      "startDate": "April 2005",
+      "endDate": "April 2006",
+      "summary": "Developed internal CRM tools, RADIUS log monitors, and ISP network automation.",
+      "highlights": [
+        "Developed a PHP CRM initiative increasing response to customer issues by 75%.",
+        "Instituted PHP web applications and control center to view customer account/billing information, RADIUS logs, and server load using LAMP environment.",
+        "Automated Cisco device controls using SNMP functionality, invoice generation and distribution with PHP scripting."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Arkansas Tech University",
+      "area": "Computer Information Systems",
+      "degree": "Bachelor of Science",
+      "endDate": "2004"
+    }
+  ],
+  "honors": [
+    "Google AI Professional Certificate – Google / Coursera (September 2026)",
+    "Healthrise Hero Award – Healthrise (2025)",
+    "Wood Badge Trained – Scouting America (January 2023)"
+  ]
+}
