@@ -12,7 +12,7 @@ export interface Basics {
   title: string;
   email: string;
   phone: string;
-  linkedIn: string;
+  linkedin: string;
   photo?: string;
   website?: string;
   location: Location;
